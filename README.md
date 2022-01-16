@@ -24,7 +24,7 @@ to be added
 
 
 ## Support and contact details
-Incase of any question,concern or idea please feel free to contact me at rachelmuriithi57@gmail.com
+Incase of any question,concern or idea please feel free to contact me at milka.otieno@student.moringaschool.com
 
 ### Konown Bugs
 

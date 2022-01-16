@@ -31,7 +31,56 @@
         <a href="#contact">Contact</a>
         <a href="#about">About</a>
       </div> 
-    <h1>Motieno Pizzeria</h1>
+    
+    <div class="container">
+        <div class="row">
+
+            <div class="one">
+                <h1>Motieno Pizzeria</h1>
+            </div>
+            <label class="name">Customer name: <input type="text" id="name"></label>
+            <div class="two col-md-3">
+                <fieldset>
+                    <legend> Pizza Size </legend>
+                    <p><label> <input type=radio name="size" value=300> Small </label></p>
+                    <p><label> <input type=radio name="size" value=500> Medium </label></p>
+                    <p><label> <input type=radio name="size" value=800> Large </label></p>
+                </fieldset>
+
+            </div>
+            <div class="three col-md-3">
+                <fieldset>
+                    <legend> Pizza Crust </legend>
+                    <p><label> <input type=radio name="crust" value=60> Crispy </label></p>
+                    <p><label> <input type=radio name="crust" value=50> Stuffed </label></p>
+                    <p><label> <input type=radio name="crust" value=70> Gluten-free </label></p>
+                </fieldset>
+
+            </div>
+            <div class="three col-md-3">
+                <fieldset>
+                    <legend> Pizza Toppings </legend>
+                    <p><label> <input type=radio name="topping" value=70> Bacon </label></p>
+                    <p><label> <input type=radio name="topping" value=50> Extra Cheese </label></p>
+                    <p><label> <input type=radio name="topping" value=70> Onion </label></p>
+                    <p><label> <input type=radio name="topping" value=40> Mushroom </label></p>
+                </fieldset>
+
+            </div>
+            <div class="four col-md-3">
+                <label>Preferred delivery mode:
+                    <select name="mode" id="mode">
+                        <option value="1" id="">Pick</option>
+                        <option value="2" id="">Deliver</option>
+                    </select></label>
+
+                <p><label>Delivery instructions: <textarea name="comments"></textarea></label></p>
+                <button onclick="data()">Submit order</button>
+            </div>
+        </div>
+
+
+    </div>
     
 <script src="js/scripts.js"></script>  
 </body>

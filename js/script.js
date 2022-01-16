@@ -12,10 +12,10 @@
             alert("Kindly provide your name")
         } else {
             if (mode === 1) {
-                alert("Thank you for shopping with us " + name + ". The total cost of your purchase is Kshs. " + total)
+                alert("Thank you for shopping with us " + name + " . The total cost of your purchase is Kshs. " + total)
             } else {
                 var deliveryCost = total + 250;
-                alert("Thank you for shopping with us " + name  + ". The total cost of your purchase is Kshs. " + total +  "You have been charged an additional Kshs. 250 as delivery fee. Your total charge will be Kshs. " + deliveryCost + " shillings")
+                alert("Thank you for shopping with us " + name  + " . The total cost of your purchase is Kshs. " + total +  "You have been charged an additional Kshs. 250 as delivery fee. Your total charge will be Kshs. " + deliveryCost + " shillings")
             }
         }
     }

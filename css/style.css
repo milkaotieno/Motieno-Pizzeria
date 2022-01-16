@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-image: url("../images/backgroundpizza.jpeg");
+   /* background-image: url("../images/backgroundpizza.jpeg");*/
     background-color: #cccccc; 
     background-repeat: no-repeat;
     background-size: cover;
@@ -74,6 +74,10 @@ body {
     text-align: center;
     color: black;
 }
+.carousel-inner {
+  max-height: 70vh !important;
+}
+
 
   .name {
     text-align: center;

@@ -60,7 +60,7 @@ body {
   .two, .three, .four {
     padding: 3%;
   }
-  h1, h3 {
+  h1 {
     color: whitesmoke;
     font-size: 100px;
     text-align: center;

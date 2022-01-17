@@ -8,14 +8,14 @@ Expected result
 ### Expected output.
 
 ![Project Image](/images/project.png)
-### This is a description of my portfolio land page.
+### This is a description of motieno pizzeria page.
 
 ## Description
 This is a webpage of a pizzeria that allows the user to oredr pizza and then choose the order to their liking and on submit get the total amount to pay.
 
 ### Live Link
 Follow this link.
-to be added
+* https://milkaotieno.github.io/Motieno-Pizzeria/
 
 
 

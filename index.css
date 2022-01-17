@@ -1,0 +1,182 @@
+body{
+    /* background-color: black;
+     background-image: url('../images/pizza.jpeg');*/
+     color: white;
+ }
+ .navbar {
+     background-color: black !important;
+     padding: 30px;
+     text-align: center;
+     
+ }
+ 
+ .brand {
+     font-size: 30px !important;
+     font-weight: bolder;
+     color: goldenrod !important;
+ }
+ 
+ .nav-link {
+     color: white !important;
+ }
+ 
+ nav a:hover {
+     color: goldenrod !important;
+   } 
+ 
+ .cart-icon {
+     font-size: 30px;
+     color: goldenrod !important;
+     margin-right: 5px;
+ }
+ 
+ .pizzaImages{
+     background-position: center;
+     background-size: cover;
+     text-align: center;
+     color: black;
+ }
+ 
+ .carousel-inner {
+     max-height: 70vh !important;
+   }
+   
+   .menu {
+     height: auto;
+ }
+ 
+   .meaty {
+       height: auto;
+       background-color: white;
+   }
+ 
+   h3 {
+       color: green;
+       text-decoration: underline;
+       text-align: center;
+       margin-top: 20px;
+   }
+   
+   .card {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       border: none;
+       text-align: center;
+   }
+ 
+   .card-title {
+       color: green;
+   }
+ 
+   .card-text {
+       color: black;
+   }
+ 
+   .add-cart {
+       max-width: 40%;
+       margin: 10px;
+       background-color: black;
+   }
+ 
+   .separate{
+       background: none;
+       height: 20px;
+   }
+ 
+   .chicken {
+     height: auto;
+     background-color: white;
+ }
+ 
+ .vegetable {
+     height: auto;
+     background-color: white;
+ }
+ 
+ .contacts {
+     background-color: black;
+     font-weight: bold;
+     margin-bottom: 20px;
+ }
+ 
+ .inside-contacts {
+     margin: 20px;
+     padding: 30px;
+     text-align: center;
+ }
+ 
+ .time {
+     color: darkgoldenrod;
+ }
+ 
+ .ig {
+     margin-right: 20px;
+     margin-left: 20px;
+     color: red;
+ }
+ 
+ .twitter {
+     color: darkgoldenrod;
+ }
+ 
+ .just-pizza-icon {
+     width: 38px;
+     font-size: 30px;
+     color: goldenrod;
+ }
+ 
+ .about-wrap {
+     background-color: white;
+     color: black;
+     height: auto;
+     text-align: justify;
+     padding: 40px;
+ }
+ 
+ .order-content{
+     color: white;
+ 
+ }
+ 
+ .modal {
+     color: black;
+ }
+ 
+ .delivery-options {
+     margin-top: 10px;
+   }
+   
+   .checkout-comp {
+     margin-top: 30px !important;
+   }
+   
+   .checkout-comp button {
+     margin: auto;
+   }
+ 
+   .quantity_picker:hover {
+     color: #d92e3a;
+   }
+   
+   .minus {
+     margin-right: 10px;
+   }
+   
+   .plus {
+     margin-left: 10px;
+   }
+   
+   .r-text {
+     font-size: 12px;
+     margin-left: 10px;
+   }
+   
+   .remove-item {
+     margin: 5px;
+   }
+   
+   .remove-item:hover {
+     color: #d92e3a;
+     cursor: pointer;
+   }

@@ -1,10 +1,14 @@
-Expected result
-### Expected output.
-![This is the output](images/output.png)
+
 
 # Motieno pizzeria
 #### Author
 * Otieno Milka
+
+Expected result
+### Expected output.
+
+![Project Image](/images/project.png)
+### This is a description of my portfolio land page.
 
 ## Description
 This is a webpage of a pizzeria that allows the user to oredr pizza and then choose the order to their liking and on submit get the total amount to pay.

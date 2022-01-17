@@ -98,6 +98,7 @@ body {
 
 .socialm div {
   margin-right: 10px;
+  
 }
 
 .footer {
@@ -107,4 +108,16 @@ align-items: center;
 flex-direction: column;
 margin-top: 20px;
 
+}
+.customer {
+  font-size: larger;
+  color: chocolate;
+}
+#butt {
+  background-color: #F19201;
+  color: white;
+  height: 40px;
+  width: 150px;
+  border: #F19201;
+  margin-left: 80px;
 }
